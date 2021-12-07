@@ -1,0 +1,1 @@
+alert ("Your dog is " + ((prompt("How old is your dog?")-2)*4-21) + " in human year");
